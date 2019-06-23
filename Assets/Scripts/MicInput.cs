@@ -4,8 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 /*
-*this script came from https://forum.unity.com/threads/check-current-microphone-input-volume.133501/
-*to access the sould level, just check the static variable MicInput.MicLoudness
+*to access the sound level, just check the static variable MicInput.MicLoudness
 */
 
 public class MicInput : MonoBehaviour {
